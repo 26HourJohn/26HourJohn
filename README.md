@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... SUN TIME
 - 🌱 I’m currently learning ... GIT GITHUB 
 - 💞️ I’m looking to collaborate on ... CLOCKS SUNDIALS
-- 📫 How to reach me ... @WTFCLOCK ON TWITTER
+- 📫 How to reach me ... @26LourJohn ON TWITTER
 - https://26lourjohn.github.io/26lrClock/26lrClock.html
 
 <!---
